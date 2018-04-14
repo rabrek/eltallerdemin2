@@ -1,0 +1,18 @@
+﻿
+
+footer{
+	width:100%;
+	clear:both;
+	text-align:center;
+	padding-bottom:10px;
+}
+footer p{
+	font-size:0.7em;
+	color:#645f60;
+}
+footer align footer a:visited{
+	color:#645f60;
+}
+footer a:hover{
+	text-decoration:none;
+}
